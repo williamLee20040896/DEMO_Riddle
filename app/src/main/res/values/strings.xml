@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DEMO_Riddle</string>
+    <string name="question_1_the_word_has_the_same_pronounciation_when_after_removing_4_letter_from_it">Question 1\n The word has the same pronounciation when after Removing 4 letter from it</string>
+    <string name="reveal">reveal</string>
+    <string name="Q2">Question 2\n How do you make 1 dissapear?</string>
+    <string name="queue">Queue</string>
+</resources>
